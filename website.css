@@ -1,0 +1,214 @@
+h1{
+    font-family:cursive;
+    font-size: 70px; 
+    text-align:center; 
+    
+}
+.topone{
+    position: absolute;
+    top:0px;
+    height: 180px;
+    width:100%;
+    display: flex;
+    padding: 20px;
+}
+
+.insidetop1{
+    margin-left: 20px;
+    background-color: cadetblue;
+    height: 15px;
+    width: 15px;
+    margin-top: 105px;
+
+    
+}.insidetop2{
+    height:auto;
+    font-family: cursive;
+    margin-left: 20px;
+    font-size: 35px;
+    margin-top: 52px;
+}
+.dev{
+    font-size: 18px;
+    margin-left: 13px;
+    margin-top: 58px;
+    height: 27px;
+    width: 229px;
+    margin-top: 108px;
+   
+}
+.abt{
+    margin-top: 108px;
+    height: 59px;
+    width: 124px;
+    margin-left: 450px;
+    
+}
+.resu{
+    margin-top: 108px;
+    height: 59px;
+    width: 50px;
+    margin-left: -20px;
+}
+.projcts{
+    margin-top: 108px;
+    height: 59px;
+    width: 60px;
+    margin-left: 39px;
+}
+.contcts{
+    margin-top: 108px;
+    height: 59px;
+    width: 60px;
+    margin-left: 39px;
+}
+
+.myWebsite{
+    font-size: 20px;
+    font-family: cursive;
+ 
+}
+.maindiv{
+    height: 1000px;
+    width: 1000px;
+}
+.leftdiv{
+    background-color:antiquewhite;
+    height: 800px;
+    width: 600px;
+    border: black;
+    margin-top: 200px;
+}
+.rightdiv{
+    height: 800px;
+    width: 595px;
+    border: black;
+    margin-top: -625px;
+    float: right;
+    margin-right: -450px;
+}
+.centerdiv{
+    background-color:bisque;
+    height: 450px;
+    width: 350px;
+    margin-left: 500px;
+    margin-top: -623px;
+    padding: 1px;
+
+}
+.circle{
+
+    height: 100px;
+    width:100px;
+    margin-top: 20px;
+    margin-left: 8px;
+    float:right;
+    
+}
+.circle1{
+    height: 150px;
+    width: 150px;
+    margin-top: 20px;
+    margin-left: 93px;
+    background-color: white;
+    border-radius: 77px;
+    overflow: hidden;
+    
+
+   
+}
+.namediv{
+    height: 100px;
+    width: 119px;
+    margin-left: 111px;
+    margin-top: 30px;
+    text-align: center;
+    font-family: cursive;
+    font-size: medium;
+}
+.line{
+    height: 0px;
+    width: 50px;
+    border: 2px solid;
+    margin-left: 144px;
+    margin-top: -25px;
+}
+.title{
+    height: 50px;
+    margin-left: 78px;
+    margin-top: 35px;
+    font-family: cursive;
+}
+.logos{
+    margin-left: -2px;
+    margin-top: 38px;
+    height: 50px;
+    width: 101%;
+    display: flex;
+    background-color: white;
+}
+.instalogo{
+    margin-top: 7px;
+    height: 31px;
+    width: 35px;
+    margin-left:59px;
+}
+.linkdinlogo{
+    margin-top: 7px;
+    height: 31px;
+    width: 35px;
+    margin-left: 32px;
+}
+    
+.fblogo{
+    margin-top: 7px;
+    height: 31px;
+    width: 35px;
+    margin-left: 32px;
+}
+.twittlogo{
+    margin-top: 7px;
+    height: 31px;
+    width: 35px;
+    margin-left: 32px;
+}
+.content{
+    padding:20px;
+    height:200px;
+    width:200px;
+
+}
+.con{
+    margin-top: -20px;
+    font-family: cursive;
+    width: 396px;
+    height: 43px;
+   
+}
+.buttons{
+    display: flex;
+}
+.button1{
+    border: 1px solid white;
+    width: 110px;
+    height: 30px;
+    background-color: lightcoral;
+    margin-top: 40px;
+    border-radius: 9px;
+}
+.button2{
+    border:1px solid;
+    width: 110px;
+    height: 30px;
+    margin-top: 40px;
+    border-radius: 9px;
+    margin-left: 20px;
+    
+}
+.about{
+    font-family: cursive;
+    margin-top: 108px;
+    height: 216px;
+    width: 410px;
+    margin-left:21px;
+}
