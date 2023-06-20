@@ -89,6 +89,7 @@ h1{
     margin-right: -450px;
 }
 .centerdiv{
+    box-shadow: -29px 45px 488px grey;
     background-color:bisque;
     height: 450px;
     width: 350px;
@@ -141,7 +142,7 @@ h1{
     font-family: cursive;
 }
 .logos{
-    box-shadow: 10px 16px 41px grey;
+    box-shadow: 16px 22px 61px grey;
     margin-left: -2px;
     margin-top: 50px;
     height: 50px;
@@ -162,13 +163,13 @@ h1{
     margin-left: 32px;
 }
     
-.fblogo{
+.gitlogo{
     margin-top: 10px;
     height: 31px;
     width: 35px;
     margin-left: 32px;
 }
-.twittlogo{
+.emaillogo{
     margin-top: 10px;
     height: 31px;
     width: 35px;
