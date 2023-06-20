@@ -216,3 +216,16 @@ h1{
     width: 410px;
     margin-left:21px;
 }
+.bottomone{
+    height: 175px;
+    width: 100%;
+    position: absolute;
+    margin-top: 200px;
+    background-color: antiquewhite;
+    display:flex;
+}
+.bottomone1{
+    height:100px;
+    width:100px;
+    background-color: aqua;
+}
