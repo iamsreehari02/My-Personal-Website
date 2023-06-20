@@ -6,7 +6,7 @@ h1{
 }
 .topone{
     position: absolute;
-    top:0px;
+    margin-top:-201px;
     height: 180px;
     width:100%;
     display: flex;
@@ -18,7 +18,7 @@ h1{
     background-color: cadetblue;
     height: 15px;
     width: 15px;
-    margin-top: 105px;
+    margin-top: 108px;
 
     
 }.insidetop2{
@@ -26,7 +26,7 @@ h1{
     font-family: cursive;
     margin-left: 20px;
     font-size: 35px;
-    margin-top: 52px;
+    margin-top: 51px;
 }
 .dev{
     font-size: 18px;
@@ -38,26 +38,26 @@ h1{
    
 }
 .abt{
-    margin-top: 108px;
+    margin-top: 98px;
     height: 59px;
     width: 124px;
     margin-left: 450px;
     
 }
 .resu{
-    margin-top: 108px;
+    margin-top: 98px;
     height: 59px;
     width: 50px;
     margin-left: -20px;
 }
 .projcts{
-    margin-top: 108px;
+    margin-top: 98px;
     height: 59px;
     width: 60px;
     margin-left: 39px;
 }
 .contcts{
-    margin-top: 108px;
+    margin-top: 98px;
     height: 59px;
     width: 60px;
     margin-left: 39px;
