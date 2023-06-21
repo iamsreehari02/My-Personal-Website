@@ -217,15 +217,38 @@ h1{
     margin-left:21px;
 }
 .bottomone{
+    font-weight:100;
     height: 175px;
     width: 100%;
     position: absolute;
     margin-top: 200px;
-    background-color: antiquewhite;
     display:flex;
+
 }
-.bottomone1{
+.call{
+    margin-top:30px;
     height:100px;
     width:100px;
-    background-color: aqua;
+    font-family: cursive;
+    margin-left: 950px;
+    text-align: center;
+}
+.mob{
+    height:40px;
+    font-family: cursive;
+    margin-top:-12px;
+}
+.writte{
+    margin-left:20px;
+    margin-top:30px;
+    height:100px;
+    width:100px;
+    font-family: cursive;
+    margin-left: 950px;
+    text-align: center;
+}
+.maill{
+    height:40px;
+    font-family: cursive;
+    margin-top:-12px;
 }
