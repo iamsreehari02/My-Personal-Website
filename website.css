@@ -239,16 +239,17 @@ h1{
     margin-top:-12px;
 }
 .writte{
-    margin-left:20px;
-    margin-top:30px;
-    height:100px;
-    width:100px;
+    
+    margin-top: 30px;
+    height: 100px;
+    width: 100px;
     font-family: cursive;
-    margin-left: 950px;
+    margin-left: 43px;
     text-align: center;
 }
 .maill{
     height:40px;
     font-family: cursive;
     margin-top:-12px;
+    text-align: center;
 }
