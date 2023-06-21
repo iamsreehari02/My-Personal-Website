@@ -1,11 +1,11 @@
 h1{
-    font-family:cursive;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 70px; 
     text-align:center; 
     
 }
 .topone{
-    
+    font-family: Madefor,Helvetica;
     position: fixed;
     margin-top:-201px;
     height: 180px;
@@ -20,22 +20,22 @@ h1{
     background-color: cadetblue;
     height: 15px;
     width: 15px;
-    margin-top: 108px;
+    margin-top: 104px;
 
     
 }.insidetop2{
     height:auto;
-    font-family: cursive;
+    font-family: Madefor,Helvetica;
     margin-left: 20px;
     font-size: 35px;
-    margin-top: 51px;
+    margin-top: 57px;
 }
 .dev{
     font-size: 18px;
     margin-left: 13px;
     margin-top: 58px;
     height: 27px;
-    width: 229px;
+    width: 234px;
     margin-top: 108px;
    
 }
@@ -69,7 +69,7 @@ h1{
 
 .myWebsite{
     font-size: 20px;
-    font-family: cursive;
+    font-family: Madefor,Helvetica;
  
 }
 .maindiv{
@@ -84,12 +84,13 @@ h1{
     margin-top: 200px;
 }
 .rightdiv{
+    font-size: larger;
     height: 800px;
-    width: 595px;
+    width: 550px;
     border: black;
     margin-top: -625px;
     float: right;
-    margin-right: -450px;
+    margin-right: -460px;
 }
 .centerdiv{
     box-shadow: -29px 45px 488px grey;
@@ -128,7 +129,7 @@ h1{
     margin-left: 111px;
     margin-top: 30px;
     text-align: center;
-    font-family: cursive;
+    font-family: Madefor,Helvetica;
     font-size: medium;
 }
 .line{
@@ -139,10 +140,10 @@ h1{
     margin-top: -38px;
 }
 .title{
-    height: 50px;
+    height: 35px;
     margin-left: 78px;
-    margin-top: 35px;
-    font-family: ;
+    margin-top: 51px;
+    
 }
 .logos{
     box-shadow: 16px 22px 61px grey;
@@ -185,8 +186,9 @@ h1{
 
 }
 .con{
+    font-size:22;
     margin-top: -20px;
-    font-family: cursive;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     width: 396px;
     height: 43px;
    
@@ -212,14 +214,16 @@ h1{
     
 }
 .about{
+    line-height: 1.5;
     font-weight: 100;
-    font-family: cursive;
+    font-family: Madefor,Helvetica;
     margin-top: 108px;
     height: 216px;
     width: 410px;
     margin-left:21px;
 }
 .bottomone{
+    font-family: Madefor,Helvetica;
     font-weight:100;
     height: 175px;
     width: 100%;
@@ -232,13 +236,11 @@ h1{
     margin-top:30px;
     height:100px;
     width:100px;
-    font-family: cursive;
     margin-left: 850px;
     text-align: center;
 }
 .mob{
     height:40px;
-    font-family: cursive;
     margin-top:-12px;
 }
 .writte{
@@ -246,13 +248,11 @@ h1{
     margin-top: 30px;
     height: 100px;
     width: 180px;
-    font-family: cursive;
     margin-left: 43px;
     text-align: center;
 }
 .maill{
     height:40px;
-    font-family: cursive;
     margin-top:-12px;
     text-align: center;
 }
@@ -261,7 +261,6 @@ h1{
     margin-top: 17px;
     height: 105px;
     width: 198px;
-    font-family: cursive;
     text-align: center;
 }
 .follw{
@@ -273,6 +272,7 @@ h1{
 }
 .logos2{
     
+    margin-top: -10px;
     display: flex;
     height: 36px;
     width: 200px;
